@@ -1,4 +1,4 @@
-# API de distancias entre cidades do Brasil
+# API de consulta de cidades do Brasil
 
 ## 
 
